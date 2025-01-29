@@ -2,6 +2,9 @@
 
 - Dale click para que la masividad llegue a tu vida
 - No seas un fucking panzas
+- Dejale una estrellita al proyecto para mas abs
+
+## What
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
